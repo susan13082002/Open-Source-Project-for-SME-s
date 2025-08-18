@@ -1,6 +1,6 @@
 # Open-Source-Project-for-SME-s
 
-# Beginner’s Guide: A–Z OPNsense Home Firewall Setup
+# Beginner’s Guide: A–Z OPNsense Firewall Setup
 
 ---
 
