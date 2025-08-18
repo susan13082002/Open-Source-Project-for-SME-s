@@ -6,8 +6,8 @@
 
 ## Table of Contents
 
-1. [Install1OPNsense](#install-opnsense)  
-2. [Configure OPNsense](#configure-opnsense)  
+1. [Install1OPNsense] 
+2. [Configure OPNsense]
    - Configuration Wizard  
    - System Settings  
    - Interface Configuration  
